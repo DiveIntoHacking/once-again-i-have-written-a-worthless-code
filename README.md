@@ -1,12 +1,14 @@
-# またつまらぬコードを書いてしまった集 | once-again-i-have-written-a-worthless-code
+# またつまらぬコードを書いてしまった
 
-以下は、自己責任の元実行してくださいね！
+タイトルの通り、つまらぬコードばかりです。
 
+プログラムの実行は、自己責任のもと行ってください。
 
 ## freee の「自動で経理」の画面一覧にある項目の登録作業を行うワンライナー
 
 https://www.youtube.com/watch?v=yYSmyicS8Lo
 
+<!-- prettier-ignore -->
 ```javascript
 Array.from(document.getElementsByClassName('vb-button vb-button--appearancePrimary vb-button--small vb-mr25')).map((element) => element.click());
 ```

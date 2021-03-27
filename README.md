@@ -12,3 +12,11 @@ https://www.youtube.com/watch?v=yYSmyicS8Lo
 ```javascript
 Array.from(document.getElementsByClassName('vb-button vb-button--appearancePrimary vb-button--small vb-mr25')).map((element) => element.click());
 ```
+
+<div style="text-align: center;">
+  <small>
+    <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/diveintohacking">
+      &copy;&nbsp;はむさん
+    </a>
+  </small>
+</div>

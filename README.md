@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=yYSmyicS8Lo
 
 <!-- prettier-ignore -->
 ```javascript
-Array.from(document.getElementsByClassName('vb-button vb-button--appearancePrimary vb-button--small vb-mr25')).map((element) => element.click());
+Array.from(document.getElementsByClassName('vb-button vb-button--appearancePrimary vb-button--small vb-mr25')).forEach((element) => element.click());
 ```
 
 <div style="text-align: center;">
